@@ -1,6 +1,3 @@
-Here. Copy-paste this as **Signals/README.md** (it’s complete and clean).
-
-````md
 # Signals (ECG/EEG)
 
 A small, reproducible sandbox for ECG/EEG-style signal processing (NOT EMG).
