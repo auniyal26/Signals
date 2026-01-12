@@ -1,6 +1,6 @@
 # Signals (ECG/EEG)
 
-A small, reproducible sandbox for ECG/EEG-style signal processing (NOT EMG).
+A small, reproducible sandbox for ECG/EEG-style signal processing
 
 This repo contains:
 - a minimal signal toolkit (`signal_toolkit.py`)
