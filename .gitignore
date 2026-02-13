@@ -1,5 +1,7 @@
-Artifacts/
+MEG/RESULTS/
+MEG/results/
+**/RESULTS/latest/
+**/results/latest/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
 .venv/
