@@ -8,7 +8,7 @@ DATE_TAG = "2026-02-13"
 def main():
     out_dir = os.path.join(os.path.dirname(__file__), "RESULTS")
     os.makedirs(out_dir, exist_ok=True)
-    out_path = os.path.join(out_dir, "meg_epochs_evoked_before_after.png")
+    out_path = os.path.join(out_dir, "2026-02-20_meg_evoked_before_after.png")
 
     # Load MNE sample dataset
     data_path = mne.datasets.sample.data_path(verbose=True)
