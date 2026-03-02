@@ -6,3 +6,5 @@ __pycache__/
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 !MEG/RESULTS/**
+!MEG/RESULTS/report_*/summary.txt
+!MEG/RESULTS/report_*/0*.png
