@@ -1,0 +1,2 @@
+MEG pipeline demo v1: raw→notch+bandpass (1–40 Hz) → event-locked epochs → evoked RMS.
+Dataset: sample_audvis_raw.fif | events from STI 014 | chosen event_id=3.
