@@ -1,5 +1,0 @@
-MEG pipeline demo v1 (2026-03-09)
-Dataset: C:\Users\auniy\mne_data\MNE-sample-data\MEG\sample\sample_audvis_raw.fif
-Preproc: notch=[50.0, 100.0, 150.0, 200.0] | bandpass=1.0-40.0 Hz
-Events: {1: 61, 2: 61, 3: 62, 4: 58, 5: 12, 32: 12} | chosen event_id=3 | epochs raw=61 filtered=61
-Saved: d:\Study Material\LifeReset\Signals\MEG\RESULTS\report_2026-03-09\00_meg_pipeline_demo_v1.png (+ 00_caption.txt)
